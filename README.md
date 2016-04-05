@@ -1,2 +1,5 @@
 # KBIA-Kernel-B-Interactive-Art-
-Graphics programming demo assembled with Unity 5.3.2f1
+This is part of KernelB portfolio: http://www.kernelb.com
+Used technologies: C#, Cg, OpenGL, DirectX, Unity3d, 3d Max
+Author: Max Botviniev
+Download: https://github.com/KernelB/KBIA-Kernel-B-Interactive-Art-
